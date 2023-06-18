@@ -1,0 +1,45 @@
+/* tailwind middleware */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.mainContainer {
+    width: 1480px;
+    margin: 0 auto;
+}
+
+ul.react-tabs__tab-list {
+    text-align: center;
+    border-bottom: red;
+}
+
+li#tab\:r1\:0 {
+    background-color: cornsilk;
+    width: 150px;
+    border-bottom:2px solid red;
+
+
+    /* border: 2px solid black; */
+}
+li#tab\:r1\:1 {
+    background-color: cornsilk;
+    width: 150px;
+    border-bottom:2px solid red;
+
+    /* border: 2px solid black; */
+}
+li#tab\:r1\:2 {
+    background-color: cornsilk;
+    width: 150px;
+    border-bottom:2px solid red;
+
+    /* border: 2px solid black; */
+}
+li#tab\:r1\:3 {
+    background-color: cornsilk;
+    width: 150px;
+    border-bottom:2px solid red;
+
+    /* border: 2px solid black; */
+}
